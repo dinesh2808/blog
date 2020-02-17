@@ -1,0 +1,83 @@
+.nav-link{
+  color: white;
+  font-size: 1.2em;
+  margin-right: 12px;
+}
+.navbar-link{
+  font: 35px "Fira Sans", sans-serif;
+  color: white;
+  margin-left: 10px;
+}
+.navbar-link:hover{
+  text-decoration: none;
+  color: white;
+}
+.text-primary:hover{
+  text-decoration: none;
+}
+.readmore:hover{
+  text-decoration: none;
+}
+nav{
+  margin-top: 20px;
+}
+.featured{
+  position: relative;
+  display: flex;
+  text-align: center;
+  margin: 10px;
+
+}
+.featured_post{
+  margin-right: 13px;
+}
+ figure > img{
+  width: 266px;
+  height: 180px;
+  text-align: center
+}
+figcaption{
+  color: white;
+  margin-top: 15px;
+}
+header{
+  margin-bottom: 15px;
+}
+header > img{
+  width:100%;
+  padding: 30px;
+}
+h2,h3{
+  color:white;
+  margin: 30px 30px;
+  text-transform: capitalize;
+
+}
+span{
+  color:gray;
+  margin:30px;
+  text-transform: uppercase;
+}
+p{
+  color:gray;
+  margin-left: 30px;
+  line-height: 40px;
+  font-size: 20px;
+}
+.readmore{
+  color: white;
+  margin: 30px;
+  text-decoration: none;
+}
+i{
+  color: white;
+}
+em{
+  font-size: 20px;
+  }
+i:hover{
+  color: black;
+}
+footer{
+  border-top: 1px solid white;
+}
